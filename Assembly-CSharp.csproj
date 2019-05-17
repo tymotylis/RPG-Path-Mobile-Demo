@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F650CB2E-A626-02CC-C099-9D1C449CFC6B}</ProjectGuid>
+    <ProjectGuid>{B34C593E-270F-0BE2-4DF3-9CCDA3CF43A3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -78,25 +78,25 @@
     <Compile Include="Assets\Scripts\RandomGenerator.cs" />
     <Compile Include="Assets\Scripts\TileScroll.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>S:/Unity/2019.1.0f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -282,13 +282,13 @@
       <HintPath>S:/Unity/2019.1.0f2/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>S:/Unity/RPG Path Mobile/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>S:/GitHub Projs/RPG-Path-Mobile/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>S:/Unity/2019.1.0f2/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
