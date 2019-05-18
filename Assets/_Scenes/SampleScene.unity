@@ -1383,6 +1383,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startPosition: 0
+  sequenceGaps: 4
   playerGridTransform: {fileID: 1252061108}
 --- !u!224 &1707909971 stripped
 RectTransform:

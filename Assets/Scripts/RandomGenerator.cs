@@ -5,6 +5,7 @@ using UnityEngine;
 public class RandomGenerator : MonoBehaviour
 {
 	public int startPosition;
+	public int sequenceGaps;
 	public GridTransform playerGridTransform;
 
 	private GameObject[] enemySequences;
@@ -66,7 +67,7 @@ public class RandomGenerator : MonoBehaviour
 
 	private void AddSequence(GameObject sequence)
 	{
-		needle += 6;
+		needle += sequenceGaps + 1;
 
 		Vector2 position = new Vector2(0, needle);
 		Transform newSequence = Instantiate(sequence, position, Quaternion.identity, transform).transform;
